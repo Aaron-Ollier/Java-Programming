@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adventure Game/Adventure Game.iml" filepath="$PROJECT_DIR$/Adventure Game/Adventure Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DATATYPES/DATATYPES.iml" filepath="$PROJECT_DIR$/DATATYPES/DATATYPES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VATCalc/VATCalc.iml" filepath="$PROJECT_DIR$/VATCalc/VATCalc.iml" />
+    </modules>
+  </component>
+</project>
